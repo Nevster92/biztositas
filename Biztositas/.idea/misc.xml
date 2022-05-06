@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1155" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.115" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.1" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1155" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout-v23/add_insurance.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/activity_car_modify.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/activity_cars.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/activity_main.xml" value="0.32563405797101447" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/activity_new_car_layout.xml" value="0.33" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/activity_register.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/add_insurance.xml" value="0.25" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/cars_layout.xml" value="0.25" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/error_dialog.xml" value="0.21875" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/fragment_second.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/list_insurance.xml" value="0.22" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/list_item2.xml" value="0.33" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/login.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/modify_car.xml" value="0.33" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/register_layout.xml" value="0.30117753623188404" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/scale_down.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/layout/scale_up.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/menu/car_menu.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/nevst/AndroidStudioProjects/Biztositas/app/src/main/res/menu/insurance_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

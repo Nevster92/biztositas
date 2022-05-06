@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:rowCount="2"
+    android:columnCount="1"
+    >
+
+    <TableRow
+        android:id="@+id/carRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+
+        >
+
+        <ImageView
+            android:id="@+id/carImage"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_baseline_directions_car_24"
+            app:showAsAction="always" />
+
+        <TextView
+            android:id="@+id/licenceNumberList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="12dp"
+            android:padding="8dp"
+            android:textSize="20dp"
+            android:text="@string/licence_number_placeholder" />
+
+        <TextView
+            android:id="@+id/carTypeListText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="12dp"
+            android:padding="8dp"
+            android:text="@string/type_text"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/carTypeList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="12dp"
+            android:padding="8dp"
+            android:text="@string/car_type_placeholder"
+            android:textSize="12dp" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/bonusList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginBottom="12dp"
+            android:textSize="12dp"
+            android:padding="8dp"
+            android:text="@string/bonus_placeholder" />
+
+
+
+        <TextView
+            android:id="@+id/licenceExpireList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginBottom="12dp"
+            android:textSize="12dp"
+            android:padding="8dp"
+            android:text="@string/licence_expire_placeholder" />
+    </TableRow>
+
+
+
+
+</GridLayout>

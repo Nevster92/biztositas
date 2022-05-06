@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Új biztosítás"
+        android:id="@+id/add_new_insurance">
+    </item>
+    <item
+        android:title="Módosítás"
+        android:id="@+id/modify_car">
+    </item>
+    <item
+        android:title="Törlés"
+        android:id="@+id/delete_car">
+    </item>
+
+</menu>

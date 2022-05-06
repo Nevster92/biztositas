@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Biztositas</string>
+    <string name="email">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="login_title">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="fistName">Keresztnév</string>
+    <string name="lastName">Vezetéknév</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="cancel">Mégse</string>
+    <string name="new_car">Új autó</string>
+    <string name="licence_number">Rendszám</string>
+    <string name="traffic_licence_number">Forgalmi engedély száma</string>
+    <string name="car_type">Autó típusa</string>
+    <string name="chassis_number">Alvázszám</string>
+    <string name="add">Hozzáad</string>
+    <string name="licence_expire">Forgalmi engedély lejárata</string>
+    <string name="bonus">Bónusz</string>
+    <string name="licence_number_placeholder">rendszám</string>
+    <string name="car_type_placeholder">típus</string>
+    <string name="bonus_placeholder">bónusz</string>
+    <string name="licence_expire_placeholder">lejárat</string>
+    <string name="title_activity_add_insurance">AddInsuranceActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="available_insurances">Elérhető biztosítások</string>
+    <string name="company">Cég</string>
+    <string name="period">Időtartam</string>
+    <string name="price">Ár</string>
+    <string name="type_text">Típus:</string>
+    <string name="car_details">Autó adatai</string>
+    <string name="modify">Módosítás</string>
+
+
+</resources>

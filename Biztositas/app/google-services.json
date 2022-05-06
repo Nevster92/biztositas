@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269209038903",
+    "project_id": "biztositas-3abfa",
+    "storage_bucket": "biztositas-3abfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269209038903:android:7a41f23e028ea3e40d8fb2",
+        "android_client_info": {
+          "package_name": "com.example.biztositas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269209038903-6van752egefc1grhn28m3ab5fkdr3nu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biztositas",
+            "certificate_hash": "3a0d17766d4b17170caa8e3d1f362761ddbac778"
+          }
+        },
+        {
+          "client_id": "269209038903-6c1eukt5ku44cqebcscdqt1ul2nl74vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMErccLOwb1krH_Vs2fVTAW8RdUAbKkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269209038903-6c1eukt5ku44cqebcscdqt1ul2nl74vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
